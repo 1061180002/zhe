@@ -1,11 +1,11 @@
 {
     "name": "zhe/tree",
     "keywords": [
-        "send",
-        "smd",
-        "短信",
-        "aliyun"
+        "tree",
+        "无限极分类",
+        "树形结构"
     ],
+    "license": "MIT",
     "authors": [
         {
             "name": "18340268995",
@@ -13,8 +13,9 @@
         }
     ],
     "require": {
+        "php": ">=7.0"
     },
-    "description": "阿里云短信发送",
+    "description": "格式化树形结构数据",
     "autoload": {
         "psr-4": {
             "ZheTree\\": "src/"
