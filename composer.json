@@ -1,0 +1,26 @@
+{
+    "name": "zhe/tree",
+    "keywords": [
+        "send",
+        "smd",
+        "短信",
+        "aliyun"
+    ],
+    "authors": [
+        {
+            "name": "18340268995",
+            "email": "1061180002@qq.com"
+        }
+    ],
+    "require": {
+    },
+    "description": "阿里云短信发送",
+    "autoload": {
+        "psr-4": {
+            "ZheTree\\": "src/"
+        }
+    },
+    "require-dev": {
+        "ext-json": "*"
+    }
+}
